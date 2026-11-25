@@ -30,5 +30,7 @@ A front-end practice project. The contact form has no message-delivery service c
 
 - **LinkedIn:** [muhammad-fathi-b7a693424](https://www.linkedin.com/in/muhammad-fathi-b7a693424/)
 - **X (Twitter):** [@mouahid7710](https://x.com/mouahid7710)
+- **Facebook:** [Mohamed on Facebook](https://www.facebook.com/share/1CQhxpCeYL/)
+- **Instagram:** [@mhmd7710d](https://www.instagram.com/mhmd7710d/)
 - **Email:** muhammutfathi@gmail.com
 - **WhatsApp:** [Message Mohamed on WhatsApp](https://wa.me/201040428475?text=Hi+Mohamed%2C+I+found+your+project+on+GitHub.)
