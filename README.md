@@ -23,7 +23,7 @@ The contact form is layout only and does not send messages. The content is writt
 Download the repository and open `index.html` in a browser.
 
 ## Credits
-Layout: Elzero Web School, Template Two (Kasper). Content, copy and design changes: Mohammad Fathi.
+Layout: Elzero Web School, Template Two (Kasper). Content, copy and design changes: Muhammad Fathi.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/muhammad-fathi-b7a693424/
@@ -31,4 +31,4 @@ Layout: Elzero Web School, Template Two (Kasper). Content, copy and design chang
 - Facebook: https://www.facebook.com/share/1CQhxpCeYL/
 - Instagram: https://www.instagram.com/mhmd7710d/
 - Email: muhammutfathi@gmail.com
-- WhatsApp: https://wa.me/201040428475?text=Hi+Mohammad%2C+I+found+your+project+on+GitHub.
+- WhatsApp: https://wa.me/201040428475?text=Hi+Muhammad%2C+I+found+your+project+on+GitHub.
